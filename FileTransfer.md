@@ -1,3 +1,6 @@
+Resource 
+https://isroot.nl/2018/07/09/post-exploitation-file-transfers-on-windows-the-manual-way/
+
 # File Transfer methods 
 
 VBScript
